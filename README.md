@@ -149,3 +149,6 @@ In an era where AI can generate humans, Shield-ID ensures only real humans are t
 
 core signal  
 ORIGIN 2026 – SIMATS Engineering
+<img width="1536" height="1024" alt="ChatGPT Image Mar 4, 2026, 01_16_56 PM" src="https://github.com/user-attachments/assets/387f2575-2afd-47f4-8e35-28bf814804fd" />
+
+<img width="1536" height="1024" alt="architecture" src="https://github.com/user-attachments/assets/f149be87-cf5b-4755-852c-808746b82677" />
